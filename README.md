@@ -21,3 +21,4 @@ In the end an URL will be printed in terminal with which you can make a _POST_ r
 ## Links
 - https://learn.hashicorp.com/tutorials/terraform/lambda-api-gateway
 - https://github.com/gruntwork-io/intro-to-terraform
+- https://blog.gruntwork.io/how-to-manage-terraform-state-28f5697e68fa
